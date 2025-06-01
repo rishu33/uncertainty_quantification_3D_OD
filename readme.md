@@ -2,6 +2,8 @@
 
 This repository contains the description and implementation of an open-source evaluation suite for Uncertainty Quantification (UQ) in 3D Object Detection systems. The goal of this project is to provide a comprehensive and unified framework to benchmark and compare different UQ approaches for 3D Object Detection models. This evaluation suite is designed to support nuScenes dataset and includes several metrics for assessing the uncertainty of 3D Object Detection models.
 
+![alt text](image.png)
+
 ## Project Description
 
 In automated driving systems, accurate perception is crucial for ensuring safety and performance. One key aspect of perception is understanding the uncertainty of predictions made by models, especially in complex tasks like 3D object detection. UQ methods allow us to assess the reliability of these predictions, which can be critical for downstream tasks like Multi-Object Tracking (MOT) and trajectory planning. Additionally, high-uncertainty data samples can be flagged for further investigation or retraining.
